@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+
+.red{
+  background-color: red;
+  color: white;
+}
+
+.green{
+  background-color: green;
+  color: white;
+}
+
+.red:hover, .green:hover{
+  background-color: blue;
+}
